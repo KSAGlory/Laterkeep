@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://github.com/KSAGlory/KSA-WindowSnooze/security/policy
+    about: Report potential vulnerabilities privately by following the security policy.
+  - name: KSAGlory community
+    url: https://discord.gg/ksahub
+    about: Join the community for general discussion.

@@ -1,0 +1,42 @@
+name: Bug report
+description: Report a reproducible problem with KSA WindowSnooze
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to report a problem. Do not include private window titles, documents, passwords, or tokens.
+  - type: input
+    id: version
+    attributes:
+      label: WindowSnooze version
+      placeholder: 2.0.0
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: Windows 11 25H2
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Use a generic window title if the real title contains private information.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
