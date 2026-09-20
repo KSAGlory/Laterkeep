@@ -1,20 +1,22 @@
-# KSA WindowSnooze 2.0.0
+# Laterkeep 2.1.0
 
-Version 2.0 delivers a complete interface and presentation upgrade while preserving the local, focused workflow at the heart of WindowSnooze.
+Version 2.1.0 introduces the Laterkeep name and a polished new identity while preserving the local, focused workflow at the heart of the app.
 
 ## New in this release
 
-- A fully redesigned dashboard with a clearer queue and empty state.
-- A faster snooze dialog for presets, exact return times, and reminder notes.
-- A distinct sunrise-pastel visual identity across the app and release artwork.
-- Refreshed executable, tray, package, and Microsoft Store icons.
-- Clearer privacy, safety, and recovery communication.
+- Renamed the product, executable, windows, and notification-area identity to Laterkeep.
+- Added a bold pastel clock mark that remains recognizable at small Windows icon sizes.
+- Refined the dashboard, snooze dialog, About window, spacing, and responsive alignment.
+- Corrected rounded corners and native-control artifacts throughout the interface.
+- Improved title-bar, executable, app-switcher, and notification-area icon rendering.
+- Preserved active queues when upgrading from earlier versions.
 
 ## Core capabilities
 
 - Global `Ctrl + Alt + Z` shortcut.
-- Timed and manual window restoration.
+- Quick presets and exact return times.
 - Optional reminder notes.
+- Timed or manual window restoration.
 - Queue recovery after an unexpected restart.
 - Restore-all protection during normal exit.
 - Fully local operation with no account or analytics.

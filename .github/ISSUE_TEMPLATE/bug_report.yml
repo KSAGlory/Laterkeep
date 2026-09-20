@@ -1,5 +1,5 @@
 name: Bug report
-description: Report a reproducible problem with KSA WindowSnooze
+description: Report a reproducible problem with Laterkeep
 title: "[Bug] "
 labels:
   - bug
@@ -10,8 +10,8 @@ body:
   - type: input
     id: version
     attributes:
-      label: WindowSnooze version
-      placeholder: 2.0.0
+      label: Laterkeep version
+      placeholder: 2.1.0
     validations:
       required: true
   - type: input

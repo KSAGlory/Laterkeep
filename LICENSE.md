@@ -2,7 +2,7 @@
 
 Copyright © 2026 KSAGlory. All rights reserved.
 
-KSA WindowSnooze is distributed as a compiled application at no charge. Free availability does not make the application open source and does not grant rights to its private source code.
+Laterkeep is distributed as a compiled application at no charge. Free availability does not make the application open source and does not grant rights to its private source code.
 
 The product name, logo, screenshots, documentation, presentation assets, and compiled binaries in this repository may not be copied, modified, repackaged, resold, impersonated, or redistributed as another product without prior written authorization from KSAGlory.
 

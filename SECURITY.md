@@ -2,7 +2,7 @@
 
 ## Supported version
 
-Security fixes are applied to the latest official release of KSA WindowSnooze.
+Security fixes are applied to the latest official release of Laterkeep.
 
 ## Reporting a vulnerability
 

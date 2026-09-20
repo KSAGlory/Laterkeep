@@ -1,4 +1,4 @@
-# KSA WindowSnooze support
+# Laterkeep support
 
 ## Before opening an issue
 
@@ -6,9 +6,9 @@ Confirm that you are using the latest official release and that the target is a 
 
 ## Product issues
 
-Open a [GitHub issue](https://github.com/KSAGlory/KSA-WindowSnooze/issues) and include:
+Open a [GitHub issue](https://github.com/KSAGlory/Laterkeep/issues) and include:
 
-- the WindowSnooze version;
+- the Laterkeep version;
 - your Windows version;
 - the application whose window you tried to snooze;
 - clear reproduction steps;

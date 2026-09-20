@@ -1,14 +1,14 @@
-# KSA WindowSnooze
+# Laterkeep
 
-Put a window aside without losing the work inside it.
+Put it aside. Pick up where you left off.
 
-KSA WindowSnooze is a focused Windows utility for the moments when an application needs your attention later, not now. Choose when the window should return, continue with your work, and pick up exactly where you left off.
+Laterkeep is a focused Windows utility for the moments when an application needs your attention later, not now. Choose when its window should return, continue with your work, and pick up exactly where you left off.
 
-![KSA WindowSnooze dashboard](assets/screenshots/dashboard.png)
+![Laterkeep dashboard](assets/screenshots/dashboard.png)
 
 ## A quieter desktop
 
-Minimizing a window gets it out of the way, but it also makes unfinished work easy to forget. WindowSnooze gives that window a return time.
+Minimizing a window gets it out of the way, but it also makes unfinished work easy to forget. Laterkeep gives that window a return time.
 
 1. Focus the window you want to revisit.
 2. Press `Ctrl + Alt + Z`.
@@ -17,7 +17,7 @@ Minimizing a window gets it out of the way, but it also makes unfinished work ea
 
 The application keeps running while its window is hidden. When the snooze ends, the same live window returns.
 
-![KSA WindowSnooze return-time dialog](assets/screenshots/snooze-dialog.png)
+![Laterkeep return-time dialog](assets/screenshots/snooze-dialog.png)
 
 ## Highlights
 
@@ -27,20 +27,20 @@ The application keeps running while its window is hidden. When the snooze ends, 
 - Review every snoozed window in one dashboard.
 - Restore one window early or restore the full queue.
 - Recover valid queue entries after an unexpected restart.
-- Restore hidden windows automatically when WindowSnooze exits normally.
+- Restore hidden windows automatically when Laterkeep exits normally.
 - Run entirely locally without an account, advertising, or analytics.
 
 ## Privacy by design
 
-WindowSnooze does not read window contents, record keystrokes, capture screenshots, or upload window information. It stores only the details required to restore the current queue: window handle, process identifier, title, return time, and optional reminder note.
+Laterkeep does not read window contents, record keystrokes, capture screenshots, or upload window information. It stores only the details required to restore the current queue: window handle, process identifier, title, return time, and optional reminder note.
 
 Read the complete [privacy policy](PRIVACY.md).
 
-## Availability
+## Download
 
-KSA WindowSnooze is a free Windows application. Official portable builds are published through this repository's [Releases](https://github.com/KSAGlory/KSA-WindowSnooze/releases) page. Microsoft Store publication will resume after version 2.0 completes release review.
+Laterkeep is a free Windows application. Download the latest official portable build from [Releases](https://github.com/KSAGlory/Laterkeep/releases).
 
-The source code is private and proprietary. This public repository contains reviewed product information, support documentation, presentation assets, and official compiled releases only.
+The source code is private and proprietary. This public repository contains only reviewed product information, support documentation, presentation assets, and official compiled releases. It does not contain the application source code or internal build tooling.
 
 ## Requirements
 
@@ -52,7 +52,7 @@ Some administrator-level or protected system windows may reject control from a n
 
 ## Support and security
 
-Use [GitHub Issues](https://github.com/KSAGlory/KSA-WindowSnooze/issues) for reproducible product problems and feature requests. Read [SUPPORT.md](SUPPORT.md) before posting and follow [SECURITY.md](SECURITY.md) for private vulnerability reporting.
+Use [GitHub Issues](https://github.com/KSAGlory/Laterkeep/issues) for reproducible product problems and feature requests. Read [SUPPORT.md](SUPPORT.md) before posting and follow [SECURITY.md](SECURITY.md) for private vulnerability reporting.
 
 ## Author and community
 
