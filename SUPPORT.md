@@ -8,11 +8,11 @@ Confirm that you are using the latest official release and that the target is a 
 
 Open a [GitHub issue](https://github.com/KSAGlory/Laterkeep/issues) and include:
 
-- the Laterkeep version;
-- your Windows version;
-- the application whose window you tried to snooze;
-- clear reproduction steps;
-- what you expected and what happened instead.
+- The Laterkeep version
+- Your Windows version
+- The application whose window you tried to snooze
+- Clear reproduction steps
+- What you expected and what happened instead
 
 Do not include passwords, tokens, private documents, confidential window titles, or other sensitive information.
 

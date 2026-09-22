@@ -14,13 +14,13 @@ The current queue is stored under `%LOCALAPPDATA%\KSAGlory\Laterkeep`. The recov
 
 Laterkeep does not:
 
-- connect to analytics or advertising services;
-- create an online account;
-- read document or application-window contents;
-- record keystrokes;
-- capture screenshots;
-- upload reminder notes or window titles;
-- access contacts, location, camera, or microphone.
+- Connect to analytics or advertising services
+- Create an online account
+- Read document or application-window contents
+- Record keystrokes
+- Capture screenshots
+- Upload reminder notes or window titles
+- Access contacts, location, camera, or microphone
 
 ## Network access
 
