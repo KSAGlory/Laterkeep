@@ -32,4 +32,4 @@ Restore all snoozed windows and exit the application to clear the active recover
 
 ## Contact
 
-For privacy questions, open an issue in the [Laterkeep repository](https://github.com/KSAGlory/Laterkeep/issues) or contact the KSAGlory community at [discord.gg/ksahub](https://discord.gg/ksahub).
+Ask general privacy questions through [GitHub Issues](https://github.com/KSAGlory/Laterkeep/issues). Do not include personal data or confidential files. Report suspected vulnerabilities privately using [SECURITY.md](SECURITY.md).

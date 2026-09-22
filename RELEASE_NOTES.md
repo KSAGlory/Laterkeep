@@ -1,6 +1,6 @@
 # Laterkeep 2.1.0
 
-Version 2.1.0 introduces the Laterkeep name and a polished new identity while preserving the local, focused workflow at the heart of the app.
+Version 2.1.0 introduces the Laterkeep name and updated interface while preserving the existing snooze and restore workflow.
 
 ## New in this release
 
