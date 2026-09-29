@@ -40,7 +40,15 @@ Read the complete [privacy policy](PRIVACY.md).
 
 Laterkeep is a free Windows application. Download the latest official portable build from [Releases](https://github.com/KSAGlory/Laterkeep/releases).
 
-The source code is private and proprietary. This public repository contains only reviewed product information, support documentation, presentation assets, and official compiled releases. It does not contain the application source code or internal build tooling.
+The application source code is private and proprietary. This public repository contains product information, support documentation, presentation assets, official compiled releases, and a separate checksum verification tool. It does not contain the application source code or internal build tooling.
+
+To check a downloaded ZIP against the `.sha256` file from the same release, place both files in the repository root and run this command from there:
+
+```powershell
+dotnet run --project tools/VerifyDownload -- "Laterkeep-v2.1.0-win-x64.zip" "Laterkeep-v2.1.0-win-x64.zip.sha256"
+```
+
+This optional tool requires the .NET 10 SDK. It is separate from Laterkeep and does not include the application's source code.
 
 ## Requirements
 
