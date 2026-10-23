@@ -62,11 +62,6 @@ Some administrator-level or protected system windows may reject control from a n
 
 Use [GitHub Issues](https://github.com/KSAGlory/Laterkeep/issues) for reproducible product problems and feature requests. Read [SUPPORT.md](SUPPORT.md) before posting and follow [SECURITY.md](SECURITY.md) for private vulnerability reporting.
 
-## Author and Community
-
-- Author: **KSAGlory**
-- Community: [discord.gg/ksahub](https://discord.gg/ksahub)
-
 ## License
 
 Laterkeep is proprietary software. See the [product and asset notice](LICENSE.md) for the permitted use and restrictions.
